@@ -1,5 +1,6 @@
 # GitHub for Developers
 
+testing conflicts
 - Class Date: October 24 - 25, 2017
 - Facilitator: @beardofedu
 
