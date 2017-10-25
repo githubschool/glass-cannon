@@ -1,6 +1,9 @@
-# GitHub for Developers
+# GitHub for Developers 
 
-Tokyo, Japan
+merge conflict?
+
+
+- Location: Sunnyvale CA
 - Class Date: October 24 - 25, 2017
 - Facilitator: @beardofedu
 
