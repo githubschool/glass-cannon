@@ -1,6 +1,6 @@
 # GitHub for Developers 
 
-Location: Tampa, FL
+Training Location: Culver City
 
 - Class Date: October 24 - 25, 2017
 - Facilitator: @beardofedu
