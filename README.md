@@ -1,10 +1,6 @@
 # GitHub for Developers
 
-<<<<<<< HEAD
 - Location JS300E - Line added to learn merge conflct - 4444
-=======
-- Location JS300E - Line added to learn merge conflct - 555
->>>>>>> branch 'SachinRajmane-Conflict' of https://github.com/githubschool/glass-cannon.git
 
 - Class Date: October 24 - 25, 2017
 - Facilitator: @beardofedu
