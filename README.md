@@ -1,8 +1,12 @@
-# GitHub for Developers
+# GitHub for Developers 
+
+merge conflict?
+
 
 Location: Dream City,Hell State
 
 
+- Location: Sunnyvale CA
 - Class Date: October 24 - 25, 2017
 - Facilitator: @beardofedu
 
