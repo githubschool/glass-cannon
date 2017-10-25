@@ -1,9 +1,8 @@
 # GitHub for Developers 
 
-merge conflict?
+Location: Culver City, California, USA
 
 
-- Location: Sunnyvale CA
 - Class Date: October 24 - 25, 2017
 - Facilitator: @beardofedu
 
