@@ -1,5 +1,7 @@
 # GitHub for Developers
 
+
+- Location: Sunnyvale CA
 - Class Date: October 24 - 25, 2017
 - Facilitator: @beardofedu
 
