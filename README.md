@@ -1,9 +1,8 @@
 # GitHub for Developers 
 
-merge conflict?
-
-
+ Sjadhav Change - Github looks easy now :)
 - Location: Sunnyvale CA
+
 - Class Date: October 24 - 25, 2017
 - Facilitator: @beardofedu
 
