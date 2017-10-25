@@ -1,5 +1,6 @@
 # GitHub for Developers
 
+Location: LA CA Vipin
 - Class Date: October 24 - 25, 2017
 - Facilitator: @beardofedu
 
