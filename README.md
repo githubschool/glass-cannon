@@ -2,6 +2,8 @@
 
 merge conflict?
 
+- Location JS300E - Line added to learn merge conflicts
+
 - Class Date: October 24 - 25, 2017
 - Facilitator: @beardofedu
 
