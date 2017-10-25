@@ -1,6 +1,10 @@
-# GitHub for Developers
+# GitHub for Developers 
+
+merge conflict?
+
 
 testing conflicts
+- Location: Sunnyvale CA
 - Class Date: October 24 - 25, 2017
 - Facilitator: @beardofedu
 
