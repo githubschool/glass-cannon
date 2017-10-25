@@ -1,5 +1,7 @@
 # GitHub for Developers
 
+Location: BSL, Jalgaon
+
 - Class Date: October 24 - 25, 2017
 - Facilitator: @beardofedu
 
