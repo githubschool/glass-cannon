@@ -1,6 +1,11 @@
-# GitHub for Developers
+# GitHub for Developers 
 
-Location: LA CA Vipin
+merge conflict?
+
+
+
+
+- Location: Sunnyvale CA
 - Class Date: October 24 - 25, 2017
 - Facilitator: @beardofedu
 
