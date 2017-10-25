@@ -1,10 +1,6 @@
 # GitHub for Developers
 
-<<<<<<< HEAD
 - Location JS300E - Line added to learn merge conflct - 8888
-=======
-- Location JS300E - Line added to learn merge conflct - 6666
->>>>>>> refs/remotes/origin/SachinRajmane-Conflict
 
 - Class Date: October 24 - 25, 2017
 - Facilitator: @beardofedu
