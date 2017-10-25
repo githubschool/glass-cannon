@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Location JS300E - Line added to learn merge conflct - 33333
+- Location JS300E - Line added to learn merge conflct - 6666
 
 - Class Date: October 24 - 25, 2017
 - Facilitator: @beardofedu
