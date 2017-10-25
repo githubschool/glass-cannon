@@ -1,6 +1,8 @@
 # GitHub for Developers 
 
+
  Sjadhav Change - Github looks easy now :):):)
+
 - Location: Sunnyvale CA
 
 - Class Date: October 24 - 25, 2017
