@@ -1,5 +1,7 @@
 # GitHub for Developers
 
+ Sjadhav Change - Github looks easy now :)
+
 - Class Date: October 24 - 25, 2017
 - Facilitator: @beardofedu
 
