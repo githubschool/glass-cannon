@@ -1,7 +1,5 @@
 # GitHub for Developers 
 
-Location: Tampa, FL
-
 - Class Date: October 24 - 25, 2017
 - Facilitator: @beardofedu
 
