@@ -1,7 +1,11 @@
-# GitHub for Developers
+# GitHub for Developers 
+
+merge conflict?
+
 
 Location: Mum, Ind
 
+- Location: Sunnyvale CA
 - Class Date: October 24 - 25, 2017
 - Facilitator: @beardofedu
 
