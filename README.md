@@ -1,7 +1,7 @@
 # GitHub for Developers 
 
 
-Location: BSL, Jalgaon
+Location: BSL, Jalgaon, Maharashtra
 
 
 - Location: Sunnyvale CA
