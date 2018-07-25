@@ -12,6 +12,7 @@ Location: BSL, Jalgaon
 Location: Dream City,Hell State
 
 
+testing conflicts
 - Location: Sunnyvale CA
 
 - Class Date: October 24 - 25, 2017
