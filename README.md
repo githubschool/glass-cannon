@@ -12,6 +12,8 @@ Location: BSL, Jalgaon
 Location: Dream City,Hell State
 
 
+Location: Mum, Ind
+
 - Location: Sunnyvale CA
 
 - Class Date: October 24 - 25, 2017
